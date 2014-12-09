@@ -1,0 +1,12 @@
+== README
+
+# Ruby on Rails: Sythesis Matrix app
+
+This is an application to help creating a sythesis matrix for 
+writing research papers. 
+
+Help from: 
+
+[*Ruby on Rails Tutorial:
+Learn Web Development with Rails*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/).
